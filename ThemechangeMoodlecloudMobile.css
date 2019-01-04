@@ -1,5 +1,5 @@
 .bar-header {
-  background-color: #5069A1;
+  background-color: #118441;
 }
 
 ion-side-menu li .item {
@@ -65,7 +65,7 @@ ion-side-menu li.item.item-divider {
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #5069A1;
+  background: #118441;
 }
 
 /* Bottom tabs selected color */
